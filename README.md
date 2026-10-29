@@ -1,7 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" alt="Thiago Yoris Bertschi — Information Systems Engineering Student at UTN Santa Fe, Argentina" width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/header-ascii-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header-ascii-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-ascii-dark.gif">
+  <img src="./assets/header-ascii-light.gif" alt="Thiago Yoris Bertschi — ASCII name and rotating 3D torus. Information Systems Engineering student at UTN Santa Fe, Argentina." width="1400">
 </picture>
 
 ## About me
