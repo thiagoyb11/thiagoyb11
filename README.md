@@ -35,8 +35,16 @@ making technical concepts easier to understand through visualization.
 
 - **Competitive programming:** Torneo Argentino de Programación (2025, 2026)
   and Tecnomate UTN FRSF (2025).
-- **Languages:** Native Spanish and Cambridge-certified C2 English.
+- **Languages:** Spanish, English.
 
 ---
 
 [Email](mailto:thiagoyorisbertschi@gmail.com) · [GitHub](https://github.com/thiagoyb11)
+
+---
+
+> “And God said, Let there be light: and there was light.”
+>
+> -God, first prompt engineer
+
+<sub>[Genesis 1:3 (KJV)](https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=KJV)</sub>
