@@ -43,8 +43,6 @@ making technical concepts easier to understand through visualization.
 
 ---
 
-> “And God said, Let there be light: and there was light.”
->
-> -God, first prompt engineer
+<h2 align="center">“And God said, Let there be light: and there was light.”</h2>
 
-<sub>[Genesis 1:3 (KJV)](https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=KJV)</sub>
+<p align="right"><em>-God, first prompt engineer</em></p>
