@@ -1,16 +1,42 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-light.svg" alt="Thiago Yoris Bertschi — Information Systems Engineering Student at UTN Santa Fe, Argentina" width="1200">
+</picture>
 
-<!--
-**thiagoyb11/thiagoyb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm an Information Systems Engineering student at Universidad Tecnológica
+Nacional, Facultad Regional Santa Fe, Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building applications, solving algorithmic problems, and learning through
+hands-on projects. My interests include web development, developer tools, and
+making technical concepts easier to understand through visualization.
+
+## Technologies
+
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Python, TypeScript, C++, Java |
+| Frontend | React, Tailwind CSS |
+| Backend | Spring Boot, JPA |
+| Databases | PostgreSQL, MySQL |
+| Scientific computing | NumPy, Pandas, Matplotlib |
+
+## Selected projects
+
+| Project | Description |
+| :--- | :--- |
+| [KernelLab](https://github.com/Cutro2K/KernelLab) | Visualizations of operating system algorithms. |
+| [CSV-ERD-Studio](https://github.com/thiagoyb11/CSV-ERD-Studio) | Relational diagrams generated from CSV files. |
+| [chess-engine](https://github.com/thiagoyb11/chess-engine) | A chess engine implemented entirely in C++. |
+
+## Background
+
+- **Competitive programming:** Torneo Argentino de Programación (2025, 2026)
+  and Tecnomate UTN FRSF (2025).
+- **Languages:** Native Spanish and Cambridge-certified C2 English.
+
+---
+
+[Email](mailto:thiagoyorisbertschi@gmail.com) · [GitHub](https://github.com/thiagoyb11)
