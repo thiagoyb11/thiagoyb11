@@ -19,17 +19,9 @@ making technical concepts easier to understand through visualization.
 | :--- | :--- |
 | Languages | Python, TypeScript, C++, Java |
 | Frontend | React, Tailwind CSS |
-| Backend | Spring Boot, JPA |
+| Backend | Spring Boot, JPA, Rust, Axum |
 | Databases | PostgreSQL, MySQL |
-| Scientific computing | NumPy, Pandas, Matplotlib |
-
-## Selected projects
-
-| Project | Description |
-| :--- | :--- |
-| [KernelLab](https://github.com/Cutro2K/KernelLab) | Visualizations of operating system algorithms. |
-| [CSV-ERD-Studio](https://github.com/thiagoyb11/CSV-ERD-Studio) | Relational diagrams generated from CSV files. |
-| [chess-engine](https://github.com/thiagoyb11/chess-engine) | A chess engine implemented entirely in C++. |
+| Scientific computing | NumPy, Pandas, Matplotlib, ScikitLearn |
 
 ## Background
 
