@@ -33,7 +33,9 @@ The profile bio is separate from the repository README.
 
 - Update `README.md` to change the introduction, technologies, or contact link.
 - Edit `scripts/render_header.py` to change the ASCII lettering, animation, or colors.
-- The header follows the visitor's preferred color scheme, with a light fallback.
+- Replace `assets/portrait-ascii.txt` to change the portrait. It expects the ramp
+  ` .:-=+*#%@`, with the densest characters in the darkest areas.
+- The header always uses the light theme, whatever the visitor's color scheme.
 - Visitors who prefer reduced motion see a static PNG instead of the GIF.
 - The artwork is stored in this repository. It uses no external images or widgets.
 
