@@ -16,11 +16,11 @@ making technical concepts easier to understand through visualization.
 
 | Area | Technologies |
 | :--- | :--- |
-| Languages | Python, TypeScript, C++, Java |
-| Frontend | React, Tailwind CSS |
-| Backend | Spring Boot, JPA, Rust, Axum |
-| Databases | PostgreSQL, MySQL |
-| Scientific computing | NumPy, Pandas, Matplotlib, ScikitLearn |
+| Languages | ![](./assets/icons/python.svg)&nbsp;Python, ![](./assets/icons/typescript.svg)&nbsp;TypeScript, ![](./assets/icons/cplusplus.svg)&nbsp;C++, ![](./assets/icons/java.svg)&nbsp;Java |
+| Frontend | ![](./assets/icons/react.svg)&nbsp;React, ![](./assets/icons/tailwindcss.svg)&nbsp;Tailwind CSS |
+| Backend | ![](./assets/icons/spring.svg)&nbsp;Spring Boot, JPA, ![](./assets/icons/rust.svg)&nbsp;Rust, Axum |
+| Databases | ![](./assets/icons/postgresql.svg)&nbsp;PostgreSQL, ![](./assets/icons/mysql.svg)&nbsp;MySQL |
+| Scientific computing | ![](./assets/icons/numpy.svg)&nbsp;NumPy, ![](./assets/icons/pandas.svg)&nbsp;Pandas, ![](./assets/icons/matplotlib.svg)&nbsp;Matplotlib, ![](./assets/icons/scikitlearn.svg)&nbsp;ScikitLearn |
 
 ## Background
 

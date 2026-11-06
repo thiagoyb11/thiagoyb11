@@ -37,6 +37,8 @@ The profile bio is separate from the repository README.
   ` .:-=+*#%@`, with the densest characters in the darkest areas.
 - The header always uses the light theme, whatever the visitor's color scheme.
 - Visitors who prefer reduced motion see a static PNG instead of the GIF.
+- Technology logos live in `assets/icons/`, taken from [Devicon](https://github.com/devicons/devicon) (MIT).
+  Each SVG sets its own 20px size, and logos with near-black parts were recolored to read on light and dark themes.
 - The artwork is stored in this repository. It uses no external images or widgets.
 
 No installation, build step, API tokens, or GitHub Actions are required to display the profile.
